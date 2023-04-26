@@ -1,0 +1,12 @@
+{
+  "name": "nrq-gen",
+  "version": "1.0.0",
+  "description": "network request generator",
+  "main": "./src/index.js",
+  "bin": {
+    "nrq": "./src/cli/index.js"
+  },
+  "keywords": ["curl", "generator", "curl generator", "request generator", "cli", "api request generator"],
+  "author": "arhontmw@gmail.com",
+  "license": "MIT"
+}

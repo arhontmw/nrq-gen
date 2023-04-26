@@ -1,0 +1,9 @@
+{
+    "saveOptions": {
+        "dirName": ".nrq-gen",
+        "fileName": "requests",
+        "rawRequestsFileName": "raw-requests",
+        "ext": "json",
+        "rememberName": "remembered"
+    }
+}
